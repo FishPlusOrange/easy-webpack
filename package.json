@@ -1,0 +1,29 @@
+{
+  "name": "easy-webpack",
+  "version": "0.0.1",
+  "description": "An easy bundler referring to Webpack",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FishPlusOrange/easy-webpack.git"
+  },
+  "keywords": [
+    "bundler",
+    "webpack"
+  ],
+  "author": "FishPlusOrange",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FishPlusOrange/easy-webpack/issues"
+  },
+  "homepage": "https://github.com/FishPlusOrange/easy-webpack#readme",
+  "devDependencies": {
+    "@babel/core": "^7.4.0",
+    "@babel/parser": "^7.4.2",
+    "@babel/preset-env": "^7.4.2",
+    "@babel/traverse": "^7.4.0"
+  }
+}
